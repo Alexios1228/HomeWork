@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CoreApi:war">
+    <output-path>$PROJECT_DIR$/CoreApi/target</output-path>
+    <root id="archive" name="NewCoreApi-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CoreApi:war exploded" />
+    </root>
+  </artifact>
+</component>
