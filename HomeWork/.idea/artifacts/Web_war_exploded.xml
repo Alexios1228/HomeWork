@@ -11,7 +11,7 @@
             <element id="module-output" name="CoreApi" />
           </element>
           <element id="archive" name="dao-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="NewDao" />
+            <element id="module-output" name="DAO" />
           </element>
           <element id="archive" name="NewCoreImpl-1.0-SNAPSHOT.jar">
             <element id="module-output" name="CoreImpl" />

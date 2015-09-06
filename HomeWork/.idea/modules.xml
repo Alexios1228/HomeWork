@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoreApi/CoreApi.iml" filepath="$PROJECT_DIR$/CoreApi/CoreApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/CoreImpl/CoreImpl.iml" filepath="$PROJECT_DIR$/CoreImpl/CoreImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAO/DAO.iml" filepath="$PROJECT_DIR$/DAO/DAO.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesktopUI/DesktopUI.iml" filepath="$PROJECT_DIR$/DesktopUI/DesktopUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomeWork.iml" filepath="$PROJECT_DIR$/HomeWork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/NewDao/NewDao.iml" filepath="$PROJECT_DIR$/NewDao/NewDao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
     </modules>
   </component>

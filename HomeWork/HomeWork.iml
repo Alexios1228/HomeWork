@@ -23,7 +23,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/CoreApi" />
       <excludeFolder url="file://$MODULE_DIR$/CoreImpl" />
-      <excludeFolder url="file://$MODULE_DIR$/NewDao" />
+      <excludeFolder url="file://$MODULE_DIR$/DAO" />
       <excludeFolder url="file://$MODULE_DIR$/Web" />
       <excludeFolder url="file://$MODULE_DIR$/c/target/classes" />
       <excludeFolder url="file://$MODULE_DIR$/cC;&#10;            /target/classes" />
